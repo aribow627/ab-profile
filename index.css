@@ -1,0 +1,41 @@
+#gorgeous-me {
+
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 20px; 
+}
+
+.container {
+    /* margin-right: 44% */
+    
+}
+
+
+.display-4 {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.card {
+    border-radius: 10%;
+    max-width: max-content;
+    max-height: max-content;
+}
+
+.card-text {
+    word-wrap: break-word;
+      
+}
+.card-title {
+    font-style: bold;
+}
+.col-3 {
+    margin-left: 12%;
+    
+}
+
+.fav-quote {
+    font-style: italic;
+}
+
